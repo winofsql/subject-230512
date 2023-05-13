@@ -27,3 +27,5 @@
 
   - **この後、いったんログオフする**
 
+### Python で WEBアプリを可能にする為、C:\app2\Python にインストールする
+- [非公式Pythonダウンロードリンク](https://pythonlinks.python.jp/ja/index.html)
