@@ -13,3 +13,5 @@
 ### 英語またはその他の場合、日本語( Japanese ) を選択する
 ![image](https://github.com/winofsql/subject-230512/assets/1501327/51f5467b-f5c4-4adf-8a1c-730e8bd6f18c)
 
+### 再登録
+![image](https://github.com/winofsql/subject-230512/assets/1501327/fe5239a3-b4b5-4b1a-9c36-645eca88b8eb)
