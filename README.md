@@ -21,3 +21,6 @@
 ![image](https://github.com/winofsql/subject-230512/assets/1501327/ca563090-9f0b-474b-aec4-f23f0ad28b4a)
 
 ![image](https://github.com/winofsql/subject-230512/assets/1501327/988b721f-3d8f-4914-95a0-05fc90e0c851)
+
+### 無効にしたときの表示
+![image](https://github.com/winofsql/subject-230512/assets/1501327/f1935663-677e-4b94-823b-0f820dc06599)
