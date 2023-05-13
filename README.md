@@ -17,7 +17,7 @@
 
   ![image](https://github.com/winofsql/subject-230512/assets/1501327/51f5467b-f5c4-4adf-8a1c-730e8bd6f18c)
 
-### ✅ lightbox.code-workspace の再登録( 参照がそもそも無い場合は開く )
+### ✅ lightbox.code-workspace の再登録( プログラムから開くがそもそも無い場合は開くで、２番目の画像 )
 ![image](https://github.com/winofsql/subject-230512/assets/1501327/fe5239a3-b4b5-4b1a-9c36-645eca88b8eb)
 
 ![image](https://github.com/winofsql/subject-230512/assets/1501327/6751f22b-410a-40af-8d4c-bb63e8512c80)
