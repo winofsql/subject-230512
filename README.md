@@ -7,6 +7,7 @@
 
 ![image](https://github.com/winofsql/subject-230512/assets/1501327/1d918235-2cf9-40d0-b263-46bca9b2fc52)
 
+### display と入力
 ![image](https://github.com/winofsql/subject-230512/assets/1501327/3f31e9db-4348-4840-8d7c-d460c9943561)
 
 ### 英語またはその他の場合、日本語( Japanese ) を選択する
