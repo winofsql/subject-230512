@@ -29,3 +29,4 @@
 
 ### Python で WEBアプリを可能にする為、C:\app2\Python にインストールする
 - [非公式Pythonダウンロードリンク](https://pythonlinks.python.jp/ja/index.html)
+![image](https://github.com/winofsql/subject-230512/assets/1501327/9a84637b-9879-4cbf-bc10-00fb674d9de7)
