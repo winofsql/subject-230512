@@ -27,8 +27,11 @@
 
 ![image](https://github.com/winofsql/subject-230512/assets/1501327/988b721f-3d8f-4914-95a0-05fc90e0c851)
 
-### ✅ 無効にしたときの表示( 開発に必要なファイルを排除しようとするので [Wolf を止める](https://jp.ext.hp.com/v-ivr/common/software/faq/06/) )
-![image](https://github.com/winofsql/subject-230512/assets/1501327/f1935663-677e-4b94-823b-0f820dc06599)
+### ✅ [HP Wolf Securit を止める](https://jp.ext.hp.com/v-ivr/common/software/faq/06/) ( 開発に必要なファイルを排除しようとするので  )
+
+  - 無効にしたときの表示
+
+  ![image](https://github.com/winofsql/subject-230512/assets/1501327/f1935663-677e-4b94-823b-0f820dc06599)
 
   - **この後、いったんログオフする**
 
