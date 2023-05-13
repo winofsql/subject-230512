@@ -24,3 +24,6 @@
 
 ### 無効にしたときの表示
 ![image](https://github.com/winofsql/subject-230512/assets/1501327/f1935663-677e-4b94-823b-0f820dc06599)
+
+  - **この後、いったんログオフする**
+
